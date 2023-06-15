@@ -1,7 +1,7 @@
 # ShareSphere
-## Rust File Sharing App - Client Side
+## Rust File Sharing App - Server Side
 
-Welcome to the Rust File Sharing App! This is the client-side repository for our file sharing desktop application. With this app, you can easily share large files over a network with just a few clicks. App uses a number of different crates like egui, tokio and serde
+Welcome to the Rust File Sharing App! This is the server-side repository for our file sharing desktop application. With this app, you can easily share large files over a network with just a few clicks. App uses a number of different crates like sqlx, tokio and serde
 
 ### Features
 
